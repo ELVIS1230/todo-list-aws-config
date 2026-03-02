@@ -1,7 +1,5 @@
 version = 0.1
 
-[production]
-[production.deploy]
 [production.deploy.parameters]
 stack_name = "todo-list-aws-production"
 s3_bucket = "unir-s3-cp1.4"
